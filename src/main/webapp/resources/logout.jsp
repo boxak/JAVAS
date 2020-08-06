@@ -1,0 +1,17 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>로그아웃 화면입니다.</title>
+</head>
+<body>
+<script>
+	window.onload = function(){
+		<% session.removeAttribute("loginVO"); %>
+		location.href = '/javas/';
+	};
+</script>
+</body>
+</html>
