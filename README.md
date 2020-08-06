@@ -20,11 +20,11 @@
 
 ![image-20200805141334915](https://user-images.githubusercontent.com/38724041/89514675-1feeaa80-d811-11ea-9bf1-267874db558a.png)
 
-<img src="https://user-images.githubusercontent.com/38724041/89515196-c2a72900-d811-11ea-8ff8-d8b570ef9c01.png" alt="Arrow" style="width:30px;" />
+
 
 ![image-20200805141428604](https://user-images.githubusercontent.com/38724041/89514678-211fd780-d811-11ea-9a46-62c1502aada7.png)
 
-<img src="https://user-images.githubusercontent.com/38724041/89515196-c2a72900-d811-11ea-8ff8-d8b570ef9c01.png" alt="Arrow" style="width:30px;" />
+
 
 ![image-20200805141513663](https://user-images.githubusercontent.com/38724041/89514679-21b86e00-d811-11ea-9483-b204d24c0154.png)
 
