@@ -18,15 +18,15 @@
 
 ## 1. 프로젝트 선정 및 배경
 
-![image-20200805140928328](C:\Users\SEC\AppData\Roaming\Typora\typora-user-images\image-20200805140928328.png)
+![image-20200805141334915](https://user-images.githubusercontent.com/38724041/89514675-1feeaa80-d811-11ea-9bf1-267874db558a.png)
 
-<img src="https://www.pngfind.com/pngs/m/299-2999787_arrow-down-icon-png-black-down-arrow-png.png" alt="img" style="zoom:5%;" />
+<img src="https://user-images.githubusercontent.com/38724041/89515196-c2a72900-d811-11ea-8ff8-d8b570ef9c01.png" alt="Arrow" style="zoom:5%;" />
 
-![image-20200805141428604](C:\Users\SEC\AppData\Roaming\Typora\typora-user-images\image-20200805141428604.png)
+![image-20200805141428604](https://user-images.githubusercontent.com/38724041/89514678-211fd780-d811-11ea-9a46-62c1502aada7.png)
 
-<img src="https://www.pngfind.com/pngs/m/299-2999787_arrow-down-icon-png-black-down-arrow-png.png" alt="img" style="zoom:5%;" />
+<img src="https://user-images.githubusercontent.com/38724041/89515196-c2a72900-d811-11ea-8ff8-d8b570ef9c01.png" alt="Arrow" style="zoom:5%;" />
 
-![image-20200805141513663](C:\Users\SEC\AppData\Roaming\Typora\typora-user-images\image-20200805141513663.png)
+![image-20200805141513663](https://user-images.githubusercontent.com/38724041/89514679-21b86e00-d811-11ea-9483-b204d24c0154.png)
 
 ------------------------------------
 
@@ -218,13 +218,13 @@ MVC 패턴에 기반해 클래스를 설계하였다. Spring MVC 프로젝트를
 
 - 불일치
 
-![image-20200806163955557](C:\Users\SEC\AppData\Roaming\Typora\typora-user-images\image-20200806163955557.png)
+![image-20200806163955557](https://user-images.githubusercontent.com/38724041/89514681-21b86e00-d811-11ea-9561-6b37a649cda5.png)
 
 
 
 - 일치
 
-![image-20200806164025279](C:\Users\SEC\AppData\Roaming\Typora\typora-user-images\image-20200806164025279.png)
+![image-20200806164025279](https://user-images.githubusercontent.com/38724041/89514684-22510480-d811-11ea-9eb9-6da52ea74f14.png)
 
 
 
@@ -234,11 +234,11 @@ MVC 패턴에 기반해 클래스를 설계하였다. Spring MVC 프로젝트를
 
 - 도로명 주소 팝업창
 
-  ![image-20200806164453257](C:\Users\SEC\AppData\Roaming\Typora\typora-user-images\image-20200806164453257.png)
+  ![image-20200806164453257](https://user-images.githubusercontent.com/38724041/89514691-22e99b00-d811-11ea-8c26-f138695d3c00.png)
 
 - 입력 후 회원가입 화면
 
-  ![image-20200806164527932](C:\Users\SEC\AppData\Roaming\Typora\typora-user-images\image-20200806164527932.png)
+  ![image-20200806164527932](https://user-images.githubusercontent.com/38724041/89514692-22e99b00-d811-11ea-8f4c-2d789289805f.png)
 
 
 
@@ -246,11 +246,11 @@ MVC 패턴에 기반해 클래스를 설계하였다. Spring MVC 프로젝트를
 
 - 회원가입 시 등록
 
-  ![image-20200806164627067](C:\Users\SEC\AppData\Roaming\Typora\typora-user-images\image-20200806164627067.png)
+  ![image-20200806164627067](https://user-images.githubusercontent.com/38724041/89514693-23823180-d811-11ea-92a3-8c6873813d7b.png)
 
 - 프로필 사진이 필요한 곳에 "xx님 환영합니다." 문구와 함께 프로필 사진이 올라오도록 구현.
 
-  ![image-20200806164753686](C:\Users\SEC\AppData\Roaming\Typora\typora-user-images\image-20200806164753686.png)
+  ![image-20200806164753686](https://user-images.githubusercontent.com/38724041/89514694-241ac800-d811-11ea-9c84-e07e40411dbd.png)
 
 
 
@@ -258,13 +258,13 @@ MVC 패턴에 기반해 클래스를 설계하였다. Spring MVC 프로젝트를
 
 - '아이디 저장'에 체크하고 로그인
 
-  ![image-20200806164946833](C:\Users\SEC\AppData\Roaming\Typora\typora-user-images\image-20200806164946833.png)
+  ![image-20200806164946833](https://user-images.githubusercontent.com/38724041/89514696-241ac800-d811-11ea-9f6b-014163fa3766.png)
 
 
 
 - Java 단에서 클라이언트의 Cookie 객체에 로그인 아이디를 저장하게 구현하였다.
 
-  ![image-20200806165053605](C:\Users\SEC\AppData\Roaming\Typora\typora-user-images\image-20200806165053605.png)
+  ![image-20200806165053605](https://user-images.githubusercontent.com/38724041/89514702-24b35e80-d811-11ea-89d3-dfcf6ed56700.png)
 
   (다음 로그인 시도 시, yejis 라는 아이디가 떠 있는 모습)
 
